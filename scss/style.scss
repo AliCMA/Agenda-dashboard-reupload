@@ -1,0 +1,7 @@
+@use "../scss/base.scss"; 
+
+// abstracts
+@use "./abstracts/reset";
+
+// components
+@use "./components/agenda/agenda.scss";
